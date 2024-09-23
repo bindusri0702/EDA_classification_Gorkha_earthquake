@@ -4,7 +4,7 @@ This project focuses on the 2015 Gorkha Nepal Earthquake, analyzing its impact u
 
 
 ## Introduction
-The 2015 Gorkha Nepal Earthquake caused significant damage to buildings and infrastructure. This project aims to classify the damage sustained by buildings based on factors like geographical location, building materials, building features, and buiding usage. A **Random Forest** classifier was used, enhanced by the integration of **geospatial embeddings** to improve classification performance.
+The 2015 Gorkha Nepal Earthquake caused significant damage to buildings and infrastructure. This project aims to classify the damage sustained by buildings based on factors like geographical location, building materials, building features, and buiding usage. A Random Forest classifier was used, enhanced by the integration of **geospatial embeddings** to improve classification performance.
 
 ## Dataset
 The dataset includes detailed information about buildings, their geographical location, usage, and structural properties. Key columns include:
